@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Ignora a pasta de configuração da IDE
+.idea/
+
+# Ignora a pasta de saída de build
+out/
+
+# Ignora arquivos de backup
+*~
+*.swp
+
+# Ignora as pastas Aula e A00S
+*/Aula
+*/A00S
