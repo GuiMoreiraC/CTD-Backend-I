@@ -35,17 +35,17 @@ src
 
 Este módulo aborda o Design Patterns, com foco em padrões de projeto estruturais, como Template Method, Chain of Responsibility, Proxy e Flyweight. Além disso, também é apresentado o uso de testes unitários com JUnit e integração com outras tecnologias
 
-| Aula | Tipo | Atividade | Mesa de trabalho |
+| Aula | Tema | Atividade | Mesa de trabalho |
 |------|------|-----------|------------------|
-| A01S | Testes unitários JUnit | [Atividade](./src/Modulo_I/A01S/Atividade) | [Mesa](./src/Modulo_I/A01S/Mesa) |
-| A02S | Template Method pattern | [Atividade](./src/Modulo_I/A02S/Atividade) | [Mesa](./src/Modulo_I/A02S/Mesa) |
-| A03S | Integração I | [Atividade](./src/Modulo_I/A03S/Atividade) | [Mesa](./src/Modulo_I/A03S/Mesa) |
-| A04S | Chain of Responsibility pattern | [Atividade](./src/Modulo_I/A04S/Atividade) | [Mesa](./src/Modulo_I/A04S/Mesa) |
-| A05S | Proxy pattern | [Atividade](./src/Modulo_I/A05S/Atividade) | [Mesa](./src/Modulo_I/A05S/Mesa) |
-| A06S | Integração II | [Atividade](./src/Modulo_I/A06S/Atividade) | [Mesa](./src/Modulo_I/A06S/Mesa) |
-| A07S | Flyweight pattern | [Atividade](./src/Modulo_I/A07S/Atividade) | [Mesa](./src/Modulo_I/A07S/Mesa) |
-| A08S | Flyweight pattern | [Atividade](./src/Modulo_I/A08S/Atividade) | [Mesa](./src/Modulo_I/A08S/Mesa) |
-| A09S | Integração III | [Atividade](./src/Modulo_I/A09S/Atividade) | [Mesa](./src/Modulo_I/A09S/Mesa) |
+| A01S | Testes unitários JUnit | [Atividade](src/main/java/Modulo_I/A01S/Atividade) | [Mesa](src/main/java/Modulo_I/A01S/Mesa) |
+| A02S | Template Method pattern | [Atividade](src/main/java/Modulo_I/A02S/Atividade) | [Mesa](src/main/java/Modulo_I/A02S/Mesa) |
+| A03S | Integração I |  | [Mesa](src/main/java/Modulo_I/A03S/Mesa) |
+| A04S | Chain of Responsibility pattern | [Atividade](src/main/java/Modulo_I/A04S/Atividade) | [Mesa](src/main/java/Modulo_I/A04S/Mesa) |
+| A05S | Proxy pattern | [Atividade](src/main/java/Modulo_I/A05S/Atividade) | [Mesa](src/main/java/Modulo_I/A05S/Mesa) |
+| A06S | Integração II |  | [Mesa](src/main/java/Modulo_I/A06S/Mesa) |
+| A07S | Flyweight pattern |  | [Mesa](src/main/java/Modulo_I/A07S/Mesa) |
+| A08S | Facade pattern | [Atividade](src/main/java/Modulo_I/A08S/Atividade) | [Mesa](src/main/java/Modulo_I/A08S/Mesa) |
+| A09S | Integração III |  | [Mesa](src/main/java/Modulo_I/A09S/Mesa) |
 
 ### Módulo II | Testes Unitários, Logging e Acesso a Dados
 
