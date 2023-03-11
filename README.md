@@ -13,20 +13,24 @@ As atividades estão organizadas em pastas por módulo e por sessão. Dentro de 
 
 ```
 src
-├── Modulo_I
-│   ├── A01S
-│   │   ├── Atividade
-│   │   └── Mesa
-│   ├── A02S
-│   │   ├── Atividade
-│   │   └── Mesa
-│   └── ...
-├── Modulo_II
-│   ├── ...
-│   └── ...
-└── Modulo_III
-    ├── ...
-    └── ...
+├── main
+│   └── java
+│       ├── Modulo_I
+│       │   ├── A01S
+│       │   │   ├── Atividade
+│       │   │   ├── Aula
+│       │   │   └── Mesa
+│       │   ├── A02S
+│       │   │   ├── Atividade
+│       │   │   ├── Aula
+│       │   │   └── Mesa
+│       │   └── ...
+│       ├── Modulo_II
+│       │   ├── ...
+│       │   └── ...
+│       └── Modulo_III
+│           ├── ...
+│           └── ...
 ```
 
 ## Módulos
