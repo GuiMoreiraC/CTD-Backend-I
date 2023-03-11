@@ -18,11 +18,9 @@ src
 │       ├── Modulo_I
 │       │   ├── A01S
 │       │   │   ├── Atividade
-│       │   │   ├── Aula
 │       │   │   └── Mesa
 │       │   ├── A02S
 │       │   │   ├── Atividade
-│       │   │   ├── Aula
 │       │   │   └── Mesa
 │       │   └── ...
 │       ├── Modulo_II

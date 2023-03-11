@@ -33,5 +33,5 @@ out/
 *.swp
 
 # Ignora as pastas Aula e A00S
-*/Aula
+*/**/Aula
 */A00S
