@@ -18,7 +18,7 @@ public class Main {
             int listaMedia = new ListaMedia(Arrays.asList(1,2,3,4,5)).media();
             ListaMedia listaVazia = new ListaMedia(List.of());
         }catch (Exception e){
-            logger.info("A Lista é igual a Zero", e);
+            logger.error("A Lista é igual a Zero", e);
         }
 
     }
