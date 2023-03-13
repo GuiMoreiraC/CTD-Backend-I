@@ -18,11 +18,9 @@ src
 │       ├── Modulo_I
 │       │   ├── A01S
 │       │   │   ├── Atividade
-│       │   │   ├── Aula
 │       │   │   └── Mesa
 │       │   ├── A02S
 │       │   │   ├── Atividade
-│       │   │   ├── Aula
 │       │   │   └── Mesa
 │       │   └── ...
 │       ├── Modulo_II
@@ -37,7 +35,7 @@ src
 
 ### Modulo I | Design Patterns
 
-Este módulo aborda o Design Patterns, com foco em padrões de projeto estruturais, como Template Method, Chain of Responsibility, Proxy e Flyweight. Além disso, também é apresentado o uso de testes unitários com JUnit e integração com outras tecnologias
+Este módulo aborda o Design Patterns, com foco em padrões de projeto estruturais, como Template Method, Chain of Responsibility, Proxy e Flyweight. Além disso, também é apresentado o uso de testes unitários com JUnit e integração entre essas tecnologias
 
 | Aula | Tema | Atividade | Mesa de trabalho |
 |------|------|-----------|------------------|
@@ -53,7 +51,21 @@ Este módulo aborda o Design Patterns, com foco em padrões de projeto estrutura
 
 ### Módulo II | Testes Unitários, Logging e Acesso a Dados
 
-(em construção)
+Este módulo tem como objetivo aprimorar o conhecimento em testes unitários com JUnit, log utilizando Log4j, acesso a banco de dados utilizando JDBC e o banco de dados H2, gerenciamento de dependências utilizando Maven, além de apresentar o padrão DAO (Data Access Object) para acesso a banco de dados e serialização de objetos e I/O de arquivos. As atividades práticas incluem a criação de testes unitários, integração com o banco de dados H2, criação de DAOs, e a escrita e leitura de arquivos utilizando serialização de objetos e I/O.
+
+| Aula | Tema | Atividade | Mesa de trabalho |
+|------|------|-----------|------------------|
+| A10S | Logging (Trace e Debug) | [Atividade](src/main/java/Modulo_II/A10S/Atividade) | [Mesa](src/main/java/Modulo_II/A10S/Mesa) |
+| A11S | Acesso a Banco de Dados | [Atividade](src/main/java/Modulo_II/A11S/Atividade) | [Mesa](src/main/java/Modulo_II/A11S/Mesa) |
+| A12S | Integração IV |  | [Mesa](src/main/java/Modulo_II/A12S/Mesa) |
+| A13S | Consultas e transações no banco de dados | [Atividade](src/main/java/Modulo_II/A13S/Atividade) | [Mesa](src/main/java/Modulo_II/A13S/Mesa) |
+| A14S | Padrão DAO (Data Access Object) | [Atividade](src/main/java/Modulo_II/A14S/Atividade) | [Mesa](src/main/java/Modulo_II/A14S/Mesa) |
+| A15S | Integração V |  | [Mesa](src/main/java/Modulo_II/A15S/Mesa) |
+| A16S | Oficina Coding |  |  |
+| A17S | Avaliação I |  |  |
+| A18S | Maven | [Atividade](src/main/java/Modulo_II/A18S/Atividade) | [Mesa](src/main/java/Modulo_II/A18S/Mesa) |
+| A19S | Serialização de Objetos e I/O de Arquivos | [Atividade](src/main/java/Modulo_II/A19S/Atividade) | [Mesa](src/main/java/Modulo_II/A19S/Mesa) |
+| A20S | Integração VI |  | [Mesa](src/main/java/Modulo_II/A20S/Mesa) |
 
 ### Módulo III | Framework para o desenvolvimento ágil de aplicações
 
